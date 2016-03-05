@@ -1,0 +1,28 @@
+name: ClickandGive
+favicon: null
+layout_spectrum: 0.522787069901824
+typography_spectrum: 0.8083031366113573
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.0028836217243224382
+  lightness: 0.644262074958533
+  saturation: 0.5014977962709963
+  rhythmicContrast: 0.004372913157567382
+purpose: []
