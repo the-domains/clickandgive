@@ -2,6 +2,7 @@ name: ClickandGive
 favicon: null
 layout_spectrum: 0.522787069901824
 typography_spectrum: 0.8083031366113573
+title: clickandgive
 cta:
   domain: null
   bucket: null
